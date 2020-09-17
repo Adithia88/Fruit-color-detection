@@ -13,7 +13,7 @@ This is an implementation of Open-CV on Python 3. This code generates bounding b
 
 The repository includes:
 * Source code of Fruit Color Detection using Open-CV .
-* Jupyter notebooks to visualize the detection pipeline at every step
+* Jupyter notebook to visualize the detection of pipeline at every step
 * Example of training on your own dataset
 
 
