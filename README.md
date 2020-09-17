@@ -18,7 +18,7 @@ The repository includes:
 
 
 # Getting Started
-* [colour detection.py](colour detection.ipynb) Is the easiest way to start. It shows an example of using an Open-CV to Detect Color in your own videos.
+* [colour detection.py](colour detection.py) Is the easiest way to start. It shows an example of using an Open-CV to Detect Color in your own videos.
 
 
 
