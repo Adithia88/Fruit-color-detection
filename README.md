@@ -9,7 +9,7 @@ dataset : https://drive.google.com/file/d/1bq5W71Nc8ODM0OZ5oKrjB_8Xq7T12PXF/view
 
 This is an implementation of Open-CV on Python 3. This code generates bounding boxes and detecting color of an object in the image. It's based on lower RGB and Upper RGB.
 
-![Color Detection Sample](assets/detection.png)
+![Color Detection Sample](assets/detection.PNG)
 
 The repository includes:
 * Source code of Fruit Color Detection using Open-CV .
@@ -18,7 +18,7 @@ The repository includes:
 
 
 # Getting Started
-* [demo.ipynb](demo.ipynb) Is the easiest way to start. It shows an example of using an Open-CV to Detect Color in your own videos.
+* [Colour detection.py](colour detection.ipynb) Is the easiest way to start. It shows an example of using an Open-CV to Detect Color in your own videos.
 
 
 
