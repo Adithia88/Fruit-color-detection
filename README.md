@@ -1,10 +1,3 @@
-# Fruit-color-detection
-this project will detect the color of fruit 
-
-it just detect orange, yellow and red color
-
-dataset : https://drive.google.com/file/d/1bq5W71Nc8ODM0OZ5oKrjB_8Xq7T12PXF/view?usp=sharing
-
 # Open-CV for Color Detection 
 
 This is an implementation of Open-CV on Python 3. This code generates bounding boxes and detecting color of an object in the image. It's based on lower RGB and Upper RGB.
@@ -26,6 +19,7 @@ The repository includes:
 
 ## 1. Input video or webcam 
 just input the video what u want to detect or webcam in realtime.
+dataset : https://drive.google.com/file/d/1bq5W71Nc8ODM0OZ5oKrjB_8Xq7T12PXF/view?usp=sharing
 ![](assets/step1.PNG)
 
 ## 2. Define Color and range the uppercolor and lowercolor
@@ -38,7 +32,7 @@ this step will make the color kernel.
 ![](assets/step3.PNG)
 
 ## 4.Creating contour to track ur color 
-we need to creat contour to track ur color and make it to rectangle 
+we need to create contour to track ur color and make it to rectangle 
 
 ![](assets/step4.PNG)
 
